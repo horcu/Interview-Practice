@@ -9,6 +9,7 @@ public class built_in_binary_function {
 
         getBinaryRepresentation(235);
         getBinaryRepresentation2(235);
+        getBinaryRepresentation3(235);
     }
 
     public static void getBinaryRepresentation(int num){
@@ -39,5 +40,12 @@ public class built_in_binary_function {
         }
         double duration = (System.nanoTime() - starttime)/ 1000000000.0;
         System.out.println(sb.reverse() + " in " + duration + " secs ");
+    }
+
+    public static void getBinaryRepresentation3(int num){
+        long starttime = System.nanoTime();
+        String bin = Integer.toString(num,2);
+        double duration = (System.nanoTime() - starttime)/ 1000000000.0;
+        System.out.println(bin + " in " + duration + " secs");
     }
 }
