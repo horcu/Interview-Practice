@@ -1,4 +1,4 @@
-package com.company.Binary;
+package com.horcu.apps.interview.google.Binary;
 
 /**
  * Created by hcummings on 6/14/2016.

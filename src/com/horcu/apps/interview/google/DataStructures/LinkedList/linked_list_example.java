@@ -1,6 +1,4 @@
-package com.company.LinkedList;
-
-import com.sun.org.apache.bcel.internal.generic.ILOAD;
+package com.horcu.apps.interview.google.DataStructures.LinkedList;
 
 /**
  * Created by hcummings on 6/14/2016.

@@ -1,4 +1,4 @@
-package com.company;
+package com.horcu.apps.interview.google.Math;
 
 public class binomial_coefficient {
 

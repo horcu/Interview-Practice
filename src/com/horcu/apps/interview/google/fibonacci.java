@@ -1,4 +1,4 @@
-package com.company;
+package com.horcu.apps.interview.google;
 
 /**
  * Created by hcummings on 6/13/2016.
